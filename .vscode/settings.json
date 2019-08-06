@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.dart_tool": true,
+  },
+  "dart.analysisExcludedFolders": [
+    "flutter_web"
+  ]
+}
